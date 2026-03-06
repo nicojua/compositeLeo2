@@ -1,0 +1,24 @@
+[
+  {
+    "IdUsuario": "c08299f2-a818-49ee-831d-1d0335c94052",
+    "UserName": "Guido",
+    "Password": "1234",
+    "Estado": 1,
+    "Accesos": [
+      {
+        "Nombre": "ADMIN"
+      }
+    ]
+  },
+  {
+    "IdUsuario": "c69cf50f-c157-4b23-a3ab-a2d1344eb6c9",
+    "UserName": "Moor",
+    "Password": "1234",
+    "Estado": 1,
+    "Accesos": [
+      {
+        "Nombre": "VENDEDOR"
+      }
+    ]
+  }
+]
